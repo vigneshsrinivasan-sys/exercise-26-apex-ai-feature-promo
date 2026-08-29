@@ -1,6 +1,6 @@
 # Exercise 26 — Apex AI Feature Promo
 
-[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-26-apex-ai-feature-promo/) · [View source](https://github.com/vigneshsrinivasan-sys/exercise-26-apex-ai-feature-promo)
+[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-26-apex-ai-feature-promo/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
@@ -25,4 +25,3 @@ The Apex AI page combines utility classes, grid and flex composition, responsive
 ## Sequence
 
 **Exercise 26 of 27** · Independent practice
-
